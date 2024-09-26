@@ -96,7 +96,7 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## OUTPUT:
-![WhatsApp Image 2024-09-26 at 11 29 55_58ac10c5](https://github.com/user-attachments/assets/081ceaa6-a4df-4a3e-85d3-0cb35a211036)
+![WhatsApp Image 2024-09-26 at 11 46 28_f5472555](https://github.com/user-attachments/assets/acc6157b-cf9b-4007-81d7-8fd34a64e432)
 
 ## RESULT:
-Thus the project was successfully excuted.
+Thus the project was successfully executed.
